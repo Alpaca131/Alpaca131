@@ -1,8 +1,12 @@
-### Hi there 👋
+# About me 👋
 
 
 - ## 🔭 I’m currently working on:
-    - (https://albo.tk)
+    - https://albo.tk (Closed source)
+    ### Created / Contributed to:  
+    - [Cloudflare workers KV wrapper](https://github.com/Alpaca131/workers-kv-py)
+    - [App for Amazfit smart watch](https://github.com/ZoLArk173/Authenticator)
+    - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
 - ## 🌱 I’m currently learning:
     - Kotlin
     - React
